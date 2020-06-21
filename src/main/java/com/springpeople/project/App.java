@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!, Jenkins-bitbucket1 integration" );
+        System.out.println( "Hello World!, Jenkins-github integration" );
     }
 }
